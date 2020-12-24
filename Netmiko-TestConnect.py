@@ -14,9 +14,9 @@ outputfile = timestr + '-output.log'
 # Define the login info
 device = {
     'device_type': 'linux',
-    'host': '192.168.10.129',
-    'username': 'fquiroga',
-    'password': 'Al3j1t0#',
+    'host': {ip},
+    'username': {username},
+    'password': {password},
 } 
  
 # ConnectHandler using device Tuple 
