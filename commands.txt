@@ -1,4 +1,4 @@
-show version
-show ip interface brief
-show interfaces description
+cat /proc/version
+ls -lha
+df -h
 

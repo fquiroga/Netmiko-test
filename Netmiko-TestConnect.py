@@ -13,10 +13,10 @@ outputfile = timestr + '-output.log'
  
 # Define the login info
 device = {
-    'device_type': 'cisco',
-    'host': '192.168.1.1',
+    'device_type': 'linux',
+    'host': '192.168.10.129',
     'username': 'fquiroga',
-    'password': 'password',
+    'password': 'Al3j1t0#',
 } 
  
 # ConnectHandler using device Tuple 
